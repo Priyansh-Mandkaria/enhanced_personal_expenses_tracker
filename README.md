@@ -24,7 +24,7 @@ A feature-rich command-line expense tracking application written in Java that he
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/Priyansh-Mandkaria/expense-tracker.git
 cd expense-tracker
 ```
 
